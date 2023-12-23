@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "learning-project"
+name = "should_i_automate"
 version = "0.1.0"
